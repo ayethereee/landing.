@@ -1,0 +1,11 @@
+.services {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #ffe7da;
+}
+
+.services h2 {
+    font-size: 32px;
+    color: #c0745d;
+    font-family: 'Calendas Plus', serif;
+}

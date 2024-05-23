@@ -1,0 +1,21 @@
+.banner {
+    background-image: url("../../banner.jpg");
+    background-position: center;
+    text-align: center;
+    padding: 150px 20px;
+    position: relative;
+}
+
+.banner-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Calendas Plus', serif;
+}
+
+.banner h1 {
+    font-size: 45px;
+    color: #ff7f66;
+    margin-bottom: 30px;
+}
